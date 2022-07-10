@@ -24,5 +24,4 @@ object Q4_a {
     println("Take Home Salary : " + takeHomeSalary(40, 30));
 
   }
-  
 }

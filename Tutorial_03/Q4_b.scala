@@ -13,7 +13,10 @@ object Q4_b {
 
   def main (args: Array[String]){
 
-    println("profit : " + profit(25));
+    println("Profit : " + profit(20));
+    println("Profit : " + profit(25));
+    println("Profit : " + profit(26));
+    println("Profit : " + profit(25.5));
 
   }
 
